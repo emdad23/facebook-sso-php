@@ -23,7 +23,7 @@
         }
       ],
       "require": {
-        "red-dot/facebook-sso": "1.0.0"
+        "red-dot/facebook-sso": "dev-master"
       }
     }
     ```
