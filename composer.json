@@ -1,0 +1,14 @@
+{
+    "name": "red-dot/facebook-sso",
+    "description": "A PHP package for Facebook Single Sign-On (SSO)",
+    "version": "1.0.0",
+    "autoload": {
+      "psr-4": {
+        "RedDot\\FacebookSSO\\": "src/FacebookSSO"
+      }
+    },
+    "require": {
+      "php": "^7.4"
+    }
+  }
+  
